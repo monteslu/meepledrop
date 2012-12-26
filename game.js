@@ -1,6 +1,6 @@
 //load the AMD modules we need
-require(['frozen/GameCore', 'frozen/ResourceManager', 'dojo/keys', 'frozen/utils', 'frozen/box2d/Box', 'frozen/box2d/RectangleEntity', 'frozen/box2d/PolygonEntity', 'frozen/box2d/MultiPolygonEntity', 'frozen/box2d/CircleEntity', 'Die', 'Meeple', 'MeeplePiece', 'dojo/domReady!'],
- function(GameCore, ResourceManager, keys, utils, Box, Rectangle, Polygon, MulitPolygon, Circle, Die, Meeple, MeeplePiece){
+require(['frozen/GameCore', 'frozen/ResourceManager', 'dojo/keys', 'frozen/utils', 'frozen/box2d/Box', 'frozen/box2d/RectangleEntity', 'frozen/box2d/PolygonEntity', 'frozen/box2d/MultiPolygonEntity', 'frozen/box2d/CircleEntity', 'Meeple', 'MeeplePiece', 'dojo/domReady!'],
+ function(GameCore, ResourceManager, keys, utils, Box, Rectangle, Polygon, MulitPolygon, Circle, Meeple, MeeplePiece){
 
   
 
