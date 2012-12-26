@@ -1,0 +1,17 @@
+{
+  "name": "Meeple Drop",
+  "description": "Free Meeple Drop Game.  Built in HTML5.  Can be run offline.",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  },
+  "permissions": [],
+  "offline_enabled": true,
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  }
+} 
